@@ -1,0 +1,6 @@
+{
+    "productId" : 12,
+    "totalAmount": 1200,
+    "quantity": 2,
+    "paymentMode": "GOOGLE_PAY"
+}
